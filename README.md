@@ -14,3 +14,7 @@ How to use
 5. The script will run and then save a csv in the sample_data folder.
 
 PLease note you run this script at your own risk, ROAST has no liability for the running of this or any other scripts.
+
+The script can be found at https://github.com/Roast-Labs/Accuranker-Ranking-Page-Status-Checker/blob/main/Accuranker_Ranking_Page_Status_Checker_(Public).ipynb. 
+
+We suggest running this script in Google Colab
